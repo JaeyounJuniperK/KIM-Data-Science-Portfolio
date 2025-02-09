@@ -1,4 +1,4 @@
-# Describing the app
+# Describing the App
 
 This app displays the Palmers Penguins dataset and allows filtering the data interactively. 
 The data from the CSV file is displayed to its user. 
