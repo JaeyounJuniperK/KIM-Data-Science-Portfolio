@@ -1,11 +1,10 @@
 # KIM-Data-Science-Portfolio
 This repository is for data science projects required for the Introduction to Data Science course and will be updated accordingly. 
 
-1. Portfolio Update #1: Interactive Palmers Penguins Dataset
+## 1. Portfolio Update #1: Interactive Palmers Penguins Dataset
 This streamlit app displays the Palmers Penguins dataset and allows filtering the data interactively. User can filter data by species, island, and bill length. 
 
-2. Portfolio Update #2: Beijing Olympic Medalist Tidy Data
-## **Tidy Data Project** 
+## 2. Portfolio Update #2: Beijing Olympic Medalist Tidy Data
 The notebook aims to demonstrate how to import, tidy, and visualize data from the [**2008 Summer Olympic Games**](https://edjnet.github.io/OlympicsGoNUTS/2008/). It walks through the process of reshaping the original dataset (which is in a wide format) into a long format that adheres to the principles of tidy data. This transformation makes the data easier to filter, group, and analyze using the Pandas library. 
 
 **What is Tidy Data**
