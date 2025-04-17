@@ -17,7 +17,7 @@ Tidy data is a way of organizing data that makes it easier to analyze and visual
 
 In short, tidy data makes the data analysis process more organized, reliable, and efficient!
 
-## 3. Portfolio Update #3: Supervised Machine Learning (Streamlit App)
+## 3. Portfolio Update #3: Supervised Machine Learning
 This project is an Supervised Machine Learning built with Streamlit, designed to make machine learning more accessible and engaging. It allows users to experiment with various models, datasets, and hyperparameters in a no-code environment. The goal is to provide a simple and visual way to understand how different algorithms behave and how performance varies based on model selection and configuration. 
 
 Users can either upload their own CSV datasets or choose from built-in sample datasets like the Iris dataset (for classification) or the Diabetes dataset (used here in place of the deprecated Boston housing dataset, for regression). After loading a dataset, users can select the target variable and input features, specify whether the task is classification or regression, and then choose a model to apply. 
