@@ -1,7 +1,7 @@
 # KIM-Data-Science-Portfolio
 This repository is for data science projects required for the Introduction to Data Science course and will be updated accordingly. 
 
-## 1. Portfolio Update #1: [**Interactive Palmers Penguins Dataset **] (https://github.com/JaeyounJuniperK/KIM-Data-Science-Portfolio/tree/main/KIM-data-science-portfolio/basic_streamlit_app) 
+## 1. Portfolio Update #1: [**Interactive Palmers Penguins Dataset **](https://github.com/JaeyounJuniperK/KIM-Data-Science-Portfolio/tree/main/KIM-data-science-portfolio/basic_streamlit_app) 
 This streamlit app displays the Palmers Penguins dataset and allows filtering the data interactively. User can filter data by species, island, and bill length. 
 
 In this project, I developed an interactive web application using Streamlit to explore the Palmers Penguins Dataset. The dataset contains information on three species of penguins (Adélie, Chinstrap, and Gentoo) and includes measurements such as bill length, bill depth, flipper length, and body mass. The goal of this app is to allow users to explore and filter the dataset interactively to gain insights into the relationships between the different variables and species. 
