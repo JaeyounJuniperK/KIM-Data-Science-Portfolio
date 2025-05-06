@@ -23,7 +23,7 @@ Tidy data is a way of organizing data that makes it easier to analyze and visual
 
 In short, tidy data makes the data analysis process more organized, reliable, and efficient!
 
-## 3. Portfolio Update #3: Supervised Machine Learning Streamlit App
+## 3. Portfolio Update #3: [Supervised Machine Learning Streamlit App](https://kim-data-science-portfolio-cmbsmxkiarxtgwmiiagpqe.streamlit.app/)
 This project is an Supervised Machine Learning built with Streamlit, designed to make machine learning more accessible and engaging. It allows users to experiment with various models, datasets, and hyperparameters in a no-code environment. The goal is to provide a simple and visual way to understand how different algorithms behave and how performance varies based on model selection and configuration. 
 
 Users can either upload their own CSV datasets or choose from built-in sample datasets like the Iris dataset (for classification) or the Diabetes dataset (used here in place of the deprecated Boston housing dataset, for regression). After loading a dataset, users can select the target variable and input features, specify whether the task is classification or regression, and then choose a model to apply. 
@@ -36,10 +36,10 @@ This project is a valuable addition to my portfolio because it demonstrates my a
 
 [**Supervised Machine Learning**](https://kim-data-science-portfolio-cmbsmxkiarxtgwmiiagpqe.streamlit.app/)
 
-## 4. Portfolio Update #4: Unsupervised Machine Learning Streamlit App
+## 4. Portfolio Update #4: [Unsupervised Machine Learning Streamlit App](https://kim-data-science-portfoliomlunsupervisedapp-luyjg7.streamlit.app/)
 This Streamlit web application serves as an interactive platform for exploring unsupervised machine learning techniques, specifically clustering using the K-Means algorithm. Users can upload their own datasets or select from built-in samples like the Iris and Wine datasets. The app guides users through selecting numeric features, applying normalization, choosing the number of clusters, and visualizing the results through PCA-reduced scatter plots, Elbow plots, and silhouette scores. This project deepens my practical understanding of unsupervised learning by putting theory into action—transforming data through scaling, reducing dimensions with PCA, and interpreting clustering performance. It reinforces core ML concepts such as feature selection, model evaluation, and the importance of preprocessing for algorithm effectiveness.
 
 This app complements my overall portfolio by demonstrating not only my ability to apply unsupervised learning algorithms but also my skills in interactive Python development using Streamlit. It showcases the deployment of machine learning models in a way that allows users to actively engage with the data and understand the effects of their decisions on model outcomes. By adding this unsupervised learning project, I am expanding the breadth of my machine learning skills while continuing to develop user-friendly, interactive web tools that can be easily accessed by non-experts.
 
-[**Unsupervised Machine Learning**](https://kim-data-science-portfoliomlunsupervisedapp-luyjg7.streamlit.app/ )
+[**Unsupervised Machine Learning**](https://kim-data-science-portfoliomlunsupervisedapp-luyjg7.streamlit.app/)
 
