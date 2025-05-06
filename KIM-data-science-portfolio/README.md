@@ -10,7 +10,7 @@ The app also allows users to observe patterns in the dataset. For example, users
 
 This app is a great introduction to my overall portfolio because it showcases my ability to clean, manipulate, and visualize data, as well as my understanding of basic data science techniques like exploratory data analysis. The interactive nature of the app highlights my ability to create accessible tools for users, making complex data easier to understand and engage with. This is an essential skill for communicating data insights effectively and bridging the gap between data science and non-technical users.
 
-## 2. Portfolio Update #2: Beijing Olympic Medalist Tidy Data
+## 2. Portfolio Update #2: [Beijing Olympic Medalist Tidy Data](https://github.com/JaeyounJuniperK/KIM-Data-Science-Portfolio/tree/main/KIM-data-science-portfolio/TidyData)
 The notebook aims to demonstrate how to import, tidy, and visualize data from the [**2008 Summer Olympic Games**](https://edjnet.github.io/OlympicsGoNUTS/2008/). It walks through the process of reshaping the original dataset (which is in a wide format) into a long format that adheres to the principles of tidy data. This transformation makes the data easier to filter, group, and analyze using the Pandas library. 
 
 **What is Tidy Data**
