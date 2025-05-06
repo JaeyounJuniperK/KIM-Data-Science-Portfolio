@@ -16,7 +16,7 @@ To run the Unsupervised ML Explorer locally on your machine, follow these steps:
 - Clone the project repository from GitHub and navigate into the project folder on your computer.
 - Install the required Python libraries. You can do this using a requirements.txt file or by installing each library manually.
 - Run the Streamlit application using the Streamlit CLI. 
-- 
+
 If you prefer not to run the app locally, you can access the deployed version online through the provided Streamlit Cloud link.
 
 Once started, it will open in your default web browser.
